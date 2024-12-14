@@ -1,0 +1,234 @@
+dir
+tmux
+code .
+cd
+dir
+cd 
+man inet_ntop
+man inet_ntop
+man snprintf
+man perror
+man snprintf
+man ntohs
+man inet_pton
+man memcopy
+man memcpy
+man memset
+dir
+code .
+gcc
+sudo aptitude install gcc
+dir
+gcc -c common.c
+
+
+
+man atoi
+gcc -c common.c
+gcc -c common.c
+gcc -c common.c
+gcc -c -Wall common.c
+sudo aptitude install clang-format
+which clang-format
+dir
+clang-format
+clang-format common.c
+ls /home/user/.vscode/extensions/ms-vscode.cpptools-0.21.0/LLVM/bin/
+ls /home/cunha/.vscode/extensions/ms-vscode.cpptools-0.21.0/LLVM/bin/
+ls /home/cunha/.vscode/extension
+ls /home/cunha/.vscode-server/extensions
+cd /home/cunha/.vscode-server/extensions
+dir
+make
+sudo aptitude install make
+makd
+maike
+make
+make
+make
+make
+make clean
+make clean
+make
+make
+man close
+make
+make
+make
+make
+make
+make clean
+mamke
+make
+dir
+./client v4 5151
+./server v4 5151
+./server v4 5151
+./server v4 5151
+make clean
+make
+tmux
+./server v4 5151
+./client 127.0.0.1 5151
+make
+./server v4 5151
+./server v4 5151
+make
+./server v4 5151
+./client 127.0.0.1 5151
+./server v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+make
+./server v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+man listen
+make
+make
+./server v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+./server-mt v4 5151
+make
+./server-mt v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+make
+make
+./server-mt v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+make
+make
+./server-mt v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+code .
+dir
+cd ../
+ls -al
+dir
+rm *
+
+dir
+code .
+ip link
+ip addr
+ip addr
+man perror
+man socket
+struct sockaddr_inman
+man sockaddr_in
+man sockaddr
+man ip
+man 7 ip
+ip addr
+make
+
+make
+make
+make
+make
+make
+make
+make
+make
+make
+./server v4 5151
+./server v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+./server v4 5151
+./server v4 5151
+./server v4 5151
+./server v4 5151
+./server v4 5151
+./server v4 5151
+./server v4 5151
+./server v4 5152
+./client 127.0.0.1 5151
+./client 127.0.0.1 5152
+./server v4 5152
+./server v4 5151
+make
+./server v4 5151
+./server v4 5151
+./client 127.0.0.1 5151
+./server v4 5151
+./server v6 5151
+./client ::1 5151
+make
+./server v6 5151
+./client ::1 5151
+make
+./server v6 5151
+./client ::1 5151
+./server v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+
+
+
+
+
+
+
+
+make
+./server-mt v4 5151
+./client 127.0.0.1 5151
+./server-mt v4 5151
+./client 127.0.0.1 5151
+make
+./server-mt v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+make
+./server-mt v4 5151
+./client 127.0.0.1 5151
+./client 127.0.0.1 5151
+dir
+vim client.c
+code .
+dir
+make
+make
+dir
+make clean
+vim Makefile
+make clean
+dir
+cd ../
+dir
+make
+dir
+tmux
+./server v4 5151
+./client 127.0.0.1 5151
+dir
+code .
+make
+exit
+exit
+exit
+exit
+dir
+code .
+cd ../
+cd ../
+make
+cd
+cd ../
+dir
+cd ../
+dir
+cat Makefile
+vim Makefile
+make
+cd ../
